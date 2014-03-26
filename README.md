@@ -1,0 +1,1 @@
+usage example: python tcp_full_connect_port_scan.py -H 127.0.0.1 -p 80, 81, 82
